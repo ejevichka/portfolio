@@ -18,7 +18,11 @@ export default function MainProjects() {
       Hi, I'm Nat
     </h1>
     <p className="text-lg text-[#a1a1a1] mb-6">
-    Frontend Developer with 8+ years of experience in FinTech, E-commerce, interprise solutions. Specialized in React, TypeScript, and micro-frontend architecture, with a strong focus on building scalable, high-performance web applications. Migrated a monolithic product to a micro-frontend architecture, reducing bundle size by 41%. Seeking opportunities to drive modern frontend solutions that enhance performance, maintainability, and user experience. Fully authorized to work in Germany
+    Frontend Developer with 8+ years of experience in FinTech, E-commerce, interprise solutions. <br/>
+    Specialized in React, TypeScript, NodeJS, BFF and micro-frontend architecture, with a strong focus on building scalable, high-performance web applications.<br/>
+    On my last project I migrated a monolithic product to a micro-frontend architecture, reducing bundle size by 41%. <br/>
+    Seeking opportunities to drive modern frontend solutions that enhance performance, maintainability, and user experience. <br/>
+    Fully authorized to work in Germany<br/>
     Languages: fluent in English (IELTS B2)
     </p>
 

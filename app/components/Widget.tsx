@@ -77,7 +77,7 @@ const PortfolioHeader = () => {
       {/* Bottom right Work Preview */}
       <div className="absolute right-5 top-1/2 -translate-y-1/2 text-xs hidden sm:block">
         <p className="mb-2">RECENT WORK</p>
-        <Link href="/projects/side" passHref>
+        <Link href="/projects/main" passHref>
           <div
             className="w-60 h-58 rounded-md flex items-end justify-center pb-8 bg-cover bg-center"
             style={{ backgroundImage: "url('/past_projects.png')" }}

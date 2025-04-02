@@ -70,7 +70,7 @@ and shaped experiences in decentralized ecosystems.
   </PortfolioShell>
   <div className="absolute right-0 top-10 text-xs">
   <p className="mb-2">RECENT WORK</p>
-        <Link href="/projects/side" passHref>
+        <Link href="/projects/main" passHref>
         <div className="w-60 h-58 rounded-md flex items-end justify-center p-4 bg-cover bg-center"
             style={{ backgroundImage: "url('/past_projects.png')" }}>
           <span className="text-[30px]">EXPERIENCE</span> 
